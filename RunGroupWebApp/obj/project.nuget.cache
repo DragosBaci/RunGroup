@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aRb3vuMwqZzl7IAE/69bHdeFyAPjOIL6oDdce0eO8cdP1SKoezlhPeqiWj1kW41OYXvriTXUMV1lko81pc+rFg==",
+  "dgSpecHash": "A+ir7p2vaydng4d4GyJJx5fT1mtje0eypBwqFcGaaWXAgryYVfl5dx/7SWwNmJa9D7QEDz842tTOEmmxqsHHQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\drago\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\RunGroupWebApp.csproj",
+  "projectFilePath": "C:\\Users\\drago\\Desktop\\RunGroup\\RunGroupWebApp\\RunGroupWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\drago\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

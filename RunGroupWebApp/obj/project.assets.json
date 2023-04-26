@@ -3854,11 +3854,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drago\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\RunGroupWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\drago\\Desktop\\RunGroup\\RunGroupWebApp\\RunGroupWebApp.csproj",
       "projectName": "RunGroupWebApp",
-      "projectPath": "C:\\Users\\drago\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\RunGroupWebApp.csproj",
+      "projectPath": "C:\\Users\\drago\\Desktop\\RunGroup\\RunGroupWebApp\\RunGroupWebApp.csproj",
       "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drago\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\obj\\",
+      "outputPath": "C:\\Users\\drago\\Desktop\\RunGroup\\RunGroupWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",

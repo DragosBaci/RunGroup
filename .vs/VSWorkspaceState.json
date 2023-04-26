@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RunGroupWebApp",
+    "\\RunGroupWebApp\\Repository",
+    "\\RunGroupWebApp\\Views",
+    "\\RunGroupWebApp\\Views\\User"
+  ],
+  "SelectedNode": "\\RunGroupWebApp\\Views\\User\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
